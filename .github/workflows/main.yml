@@ -2,7 +2,7 @@ name: Test-runner
 on:
   pull_request:
     branches:
-      - main
+      - dev
 
 jobs:
   build:
